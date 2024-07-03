@@ -1,4 +1,4 @@
-# Airline_customer_satisfaction
+# Airline customer satisfaction
 
 # Introduction
 The dataset provided by Invistico Airlines contains valuable information about their customers' experiences and satisfaction levels. With the aim of predicting future customer satisfaction and improving service quality, this dataset encompasses various customer attributes and feedback on different aspects of their flights. The primary objectives of this dataset are to predict customer satisfaction and identify areas for service improvement.
